@@ -116,7 +116,9 @@ The application of data augmentation techniques helped mitigate the impact of cl
 This project was inspired by the need for accurate skin lesion classification to support dermatological diagnosis and treatment. The methodology and techniques used were adapted from various machine learning and deep learning resources. Special thanks to the developers and contributors of the open-source libraries used in this project.
 
 # **Contact**
-Created by https://github.com/Vini-raj - feel free to contact!
+Created by Viniba D Ponraj -vinibadurai41294@gmail.com
+            Allauddin - afyian786@gmail.com
+            Vishal - vishal0prasad@gmail.com
+feel free to contact!
 
-Please let me know if you need any further details or if there's anything else I can assist you with!
 
